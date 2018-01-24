@@ -14,7 +14,7 @@ var connection = mysql.createConnection({
 // Connecting to the mysql server and sql database
 connection.connect(function(err) {
 	if (err) throw err;
-	console.log("\n==== WELCOME TO BAMAZON ====\n\nYou are now connected as id " + connection.threadId + "\n");
+	console.log("\n==== WELCOME TO BAMAZON CUSTOMER VIEW ====\n\nYou are now connected as id " + connection.threadId + "\n");
 	// Run the start function after the connection is made to begin the application
 	start();
 });
