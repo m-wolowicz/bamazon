@@ -71,7 +71,7 @@ If you haven't written a markdown file yet, [click here for a rundown](https://g
 - - -
 
 
-## Screenshots & Videoassignment
+## Screenshots & Video of Working App
 
 1. Here is what the working app looks like:
 
