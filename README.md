@@ -77,6 +77,13 @@ Amazon-like storefront using MySQL and Node.js. The app takes in orders from cus
 
 
 
+### Additional Screenshots of the initial Database Creation
+
+1. Here is a screenshot of MySQLWorkbench and the process for initially creating the database:
+
+![Customer View Screen Shot](/assets/images/DatabaseCreationScreenShot01.jpg)
+
+
 ## Copyright
 
 Melissa Wolowicz (C) 2018. All Rights Reserved.
