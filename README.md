@@ -35,7 +35,7 @@ Amazon-like storefront using MySQL and Node.js. The app takes in orders from cus
 5. Finally the app prompts the user again to see if they wish to continue shopping or if they are done.
 
 
-## Screenshots & Video of Working App
+#### Screenshots & Video of Working App for Customer View
 
 1. Here is what the working app looks like:
 
@@ -44,3 +44,41 @@ Amazon-like storefront using MySQL and Node.js. The app takes in orders from cus
 2. Here is a quick video of the working app:
 
     ![Customer View Video](/assets/images/CustomerViewVideo01.gif)
+
+
+
+### Manager View
+
+1. From your Terminal, run the Node application called `bamazonManager.js`. Running this application will:
+
+* List a set of menu options:
+
+* View Products for Sale
+
+* View Low Inventory
+
+* Add to Inventory
+
+* Add New Product
+
+* If a manager selects `View Products for Sale`, the app lists every available item: the item IDs, names, prices, and quantities.
+
+* If a manager selects `View Low Inventory`, then it lists all items with an inventory count lower than five.
+
+* If a manager selects `Add to Inventory`, app displays a prompt that will let the manager "add more" of any item currently in the store.
+
+* If a manager selects `Add New Product`, app allows the manager to add a completely new product to the store.
+
+#### Screenshots & Video of Working App for Manager View
+
+1. Here is a quick video of the working app:
+
+![Customer View Video](/assets/images/ManagerViewVideo01.gif)
+
+
+
+## Copyright
+
+Melissa Wolowicz (C) 2018. All Rights Reserved.
+
+
